@@ -11,7 +11,7 @@ body {
     color: #171717;
 }
 a {
-	color: #3070d1;
+	color: #6881A6;
     font-weight: bold;
     text-decoration: none;
 }
@@ -264,20 +264,20 @@ ol.ttfmake-list li:before {
 ul.ttfmake-list-check li:before,
 ol.ttfmake-list-check li:before {
     content: "\f14a";
-    color: #339d56;
+    color: #3F8657;
 }
 ul.ttfmake-list-check2 li:before,
 ol.ttfmake-list-check2 li:before {
     content: "\f046";
-    color: #339d56;
+    color: #3F8657;
 }
 ul.ttfmake-list-star li:before,
 ol.ttfmake-list-star li:before {
     content: "\f005";
-    color: #f89e01;
+    color: #FFBE4B;
 }
 ul.ttfmake-list-dot li:before,
 ol.ttfmake-list-dot li:before {
     content: "\f192";
-    color: #0094c5;
+    color: #367C93;
 }
